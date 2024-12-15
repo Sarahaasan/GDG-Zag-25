@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sara hassan </title>
+</head>
+<body>
+   <h1>Sara Hassan </h1>
+   <h2 >Goals:</h2>
+   <ul>
+    <li>We Wanna start our journey with Html</li>
+   </ul>
+   <h2>Material:</h2>
+   <ul>
+    <li><a href="https://www.w3schools.com/html/html_images.asp" target="_blank" title="W3school">img</a></li>
+   </ul>
+   <h2>Task:</h2>
+   <ol type="A">
+   <li > Create a Github repo named 
+    GDSC-Zag-24
+   </li>
+   <br>
+   <li >
+    In the previously created repo, GDSC-Zag-24, create a folder
+    for this 
+   task "Task-{TaskNumber}" - Descriptive Task Name
+   </li>
+   <br>
+   <li>
+    Send Task-1 Done to channel called Tasks in discord → Must be the
+    same message don't edi
+   </li>
+   </ol>
+   <h2> Submission:</h2>
+   <ul><li>make
+    React with Message in the Channel
+   </li>
+   </ul>
+</body>
+</html>
